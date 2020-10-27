@@ -26,7 +26,7 @@ Company                                                         | Business/produ
 [Ngsoft](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Nvidia](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [opswat](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
-[Oracle](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
+[Oracle](https://www.oracle.com/)                                                  | Essbase (OLAP Cube) Development               | SQL,C,C++,Java and more             | ✗           | :keyboard: [Jobs](https://www.oracle.com/corporate/careers/)
 [pento](site)                                                   | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [RADA](site)                                                    | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Rafael](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
