@@ -7,7 +7,7 @@
 
 Company                                                         | Business/products                        | Tech stack/skills                              | Recruiting  | Job page & other links
 -------------------------------------------------               | -----------------------------            | ----------------------------                   | ------------| ----------------------
-[2bPrecise](https://2bprecisehealth.com/)                       | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://2bprecisehealth.com/join-the-team/)
+[2bPrecise](https://2bprecisehealth.com/)                       |  Pharmacogenomics                        | Java                                           | ✓           | :keyboard: [Jobs](https://2bprecisehealth.com/join-the-team/)
 [Audio codes](https://www.audiocodes.com/)                      | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.audiocodes.com/careers/positions?countryGroup=Israel)
 [Configo - Provesource](https://provesrc.com)                   | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://provesrc.com/career/)
 [Dalet](https://www.dalet.com/)                                 | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://jobs.dalet.com/)
