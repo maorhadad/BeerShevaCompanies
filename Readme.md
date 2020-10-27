@@ -1,4 +1,4 @@
-# Beer Sheva companies 
+# Beer Sheva companies
 
 
 *hello content to fill*
@@ -23,6 +23,7 @@ Company                                                         | Business/produ
 [Md clone](https://www.mdclone.com/)                            | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.mdclone.com/careers)
 [Mobbo](site)                                                   | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Morphisec](https://www.morphisec.com/)                         | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.morphisec.com/careers)
+[Ness](https://www.ness-tech.co.il/)                            | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.ness-tech.co.il/careers/recruit)
 [Ngsoft](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Nvidia](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [opswat](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
