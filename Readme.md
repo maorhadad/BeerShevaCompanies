@@ -7,6 +7,7 @@
 
 Company                                                         | Business/products                        | Tech stack/skills                              | Recruiting  | Job page & other links
 -------------------------------------------------               | -----------------------------            | ----------------------------                   | ------------| ----------------------
+[2bPrecise](https://2bprecisehealth.com/)                       |  Pharmacogenomics                        | Java                                           | ✓           | :keyboard: [Jobs](https://2bprecisehealth.com/join-the-team/)
 [Audio codes](https://www.audiocodes.com/)                      | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.audiocodes.com/careers/positions?countryGroup=Israel)
 [Configo - Provesource](https://provesrc.com)                   | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://provesrc.com/career/)
 [Dalet](https://www.dalet.com/)                                 | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://jobs.dalet.com/)
@@ -23,6 +24,7 @@ Company                                                         | Business/produ
 [Md clone](https://www.mdclone.com/)                            | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.mdclone.com/careers)
 [Mobbo](site)                                                   | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Morphisec](https://www.morphisec.com/)                         | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.morphisec.com/careers)
+[Ness](https://www.ness-tech.co.il/)                            | *Need to fill in*                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.ness-tech.co.il/careers/recruit)
 [Ngsoft](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Nvidia](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [opswat](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
