@@ -45,5 +45,5 @@ Company                                                                   | Busi
 
 
 
-*Notes*
-	* Please keep the list in alphabetical order.
+## Notes
+* Please keep the list in alphabetical order.
