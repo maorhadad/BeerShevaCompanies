@@ -32,6 +32,7 @@ Company                                                         | Business/produ
 [pento](site)                                                   | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [RADA](https://www.rada.com/)                                                    | Defence                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.comeet.com/jobs/rada/73.009)
 [Rafael](site)                                                  | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
+[Retama](site)                                                  | Software solutions for business optimization                        | Spring Boot, Angular, PHP, Microservices                              | ✗           | 
 [Sigmabit](site)                                                | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Siraj](site)                                                   | *Need to fill in*                        | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Site123](https://site123.com) a.k.a Livecity                   | Websites DIY platform                    | PHP                                            | ✗           | :keyboard: [Jobs]()
