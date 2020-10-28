@@ -30,6 +30,7 @@ Company                                                                   | Busi
 [opswat](site)                                                            | *Need to fill in*                              | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Oracle](https://www.oracle.com/)                                         | Essbase (OLAP Cube) Development                | SQL,C,C++,Java and more                        | ✗           | :keyboard: [Jobs](https://www.oracle.com/corporate/careers/)
 [pento](site)                                                             | *Need to fill in*                              | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
+[RAD](https://www.rad.com/)                                               | Networks                                       | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [RADA](https://www.rada.com/)                                             | Defence                                        | *Need to fill in*                              | ✓           | :keyboard: [Jobs](https://www.comeet.com/jobs/rada/73.009)
 [Rafael](site)                                                            | *Need to fill in*                              | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Retama](site)                                                            | Software solutions for business optimization   | Spring Boot, Angular, PHP, Microservices       | ✗           | 
@@ -41,4 +42,8 @@ Company                                                                   | Busi
 [Voyager Labs](https://voyagerlabs.co/)                                   | AI-Driven Human Relationship Analysis          | Java, Kotlin,Python,Machine Learning and more..| ✓           | :keyboard: [Jobs](https://voyagerlabs.co/careers/co/southern-israel/all/)
 [Web media group](site)                                                   | *Need to fill in*                              | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
 [Wix](https://www.wix.com/)                                               | Websites DIY platform                          | React, Scala and othter Web tech.              | ✓           | :keyboard: [Jobs](https://www.wix.com/jobs/locations/beer-sheva)
-[RAD](https://www.rad.com/)                                               | Networks                                       | *Need to fill in*                              | ✗           | :keyboard: [Jobs]()
+
+
+
+*Notes*
+	* Please keep the list in alphabetical order.
