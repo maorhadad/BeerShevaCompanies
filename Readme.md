@@ -40,7 +40,7 @@ Company                                                                   | Busi
 [Soft And Hard prototype](site)                                           | *Need to fill in*                              | *Need to fill in*                              | ❌           | :keyboard: [Jobs]()
 [Tap Mobile](https://tap.pm)                                              | Creating Hit Utilities For Mobile              | NodeJS                                         | ✔           | :keyboard: [Jobs](https://tap.pm/jobs/)
 [Voyager Labs](https://voyagerlabs.co/)                                   | AI-Driven Human Relationship Analysis          | Java, Kotlin,Python,Machine Learning and more..| ✔           | :keyboard: [Jobs](https://voyagerlabs.co/careers/co/southern-israel/all/)
-[Web media group](site)                                                   | *Need to fill in*                              | *Need to fill in*                              | ❌           | :keyboard: [Jobs]()
+[Web media group](https://wmg.co.il/)                                     | Digital and web development                    | Js, Php, Angular, Wordpress                    | ❌           | :keyboard: [Jobs](https://wmg.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/)
 [Wix](https://www.wix.com/)                                               | Websites DIY platform                          | React, Scala and othter Web tech.              | ✔           | :keyboard: [Jobs](https://www.wix.com/jobs/locations/beer-sheva)
 
 
